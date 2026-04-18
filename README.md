@@ -16,8 +16,8 @@ Equipe:
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   Documentação [(esse documento)](github.com/vitoriadesouza/OPES)
--   Backend: [Repositório](github.com/vitormsantanaa/backend-opes) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/vitormsantanaa/frontend-opes) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/TCC-OPES/backend-opes.git) e [Publicação](https://opes.class.fabricadesoftware.ifc.edu.br/)
+-   Frontend: [Repositório](https://github.com/TCC-OPES/frontend-opes.git) e [Publicação](https://frontend-opes-nu.vercel.app/)
 
 
 # 1. Descrição do Projeto
